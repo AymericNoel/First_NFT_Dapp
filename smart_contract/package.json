@@ -1,0 +1,21 @@
+{
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ganache-cli": "^6.9.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
